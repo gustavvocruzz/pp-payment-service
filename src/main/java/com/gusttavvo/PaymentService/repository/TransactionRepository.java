@@ -1,6 +1,6 @@
-package com.gusttavvo.PicPayDesafio.repository;
+package com.gusttavvo.PaymentService.repository;
 
-import com.gusttavvo.PicPayDesafio.domain.transaction.Transaction;
+import com.gusttavvo.PaymentService.domain.transaction.Transaction;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TransactionRepository extends JpaRepository<Transaction, Long> {

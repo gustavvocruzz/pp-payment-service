@@ -1,6 +1,6 @@
-package com.gusttavvo.PicPayDesafio.domain.transaction;
+package com.gusttavvo.PaymentService.domain.transaction;
 
-import com.gusttavvo.PicPayDesafio.domain.users.User;
+import com.gusttavvo.PaymentService.domain.users.User;
 import jakarta.persistence.*;
 import lombok.*;
 

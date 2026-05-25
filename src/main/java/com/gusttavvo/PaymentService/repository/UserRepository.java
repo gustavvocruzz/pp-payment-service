@@ -1,6 +1,6 @@
-package com.gusttavvo.PicPayDesafio.repository;
+package com.gusttavvo.PaymentService.repository;
 
-import com.gusttavvo.PicPayDesafio.domain.users.User;
+import com.gusttavvo.PaymentService.domain.users.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.gusttavvo.PicPayDesafio.domain.users;
+package com.gusttavvo.PaymentService.domain.users;
 
 public enum UserType {
     COMMON,
