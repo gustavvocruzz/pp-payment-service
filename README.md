@@ -1,5 +1,5 @@
 ````markdown
-# PicPay Simplificado - Payment Service
+#Payment Service
 
 Implementação prática do desafio de back-end para uma plataforma de pagamentos simplificada. A aplicação permite o cadastro de usuários comuns e lojistas, além de realizar transferências financeiras entre carteiras/contas.
 
@@ -313,11 +313,6 @@ POST /transactions
 * Mensageria com RabbitMQ/Kafka
 * Deploy em cloud
 
----
-
-# Autor
-
-Desenvolvido como desafio prático de back-end inspirado no desafio técnico do PicPay.
 
 ```
 ```
